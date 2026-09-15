@@ -1,6 +1,6 @@
 # OEE Dashboard
 
-A decision-oriented manufacturing performance dashboard for OEE and loss analysis. The experience combines operational KPIs, constraint signals, loss concentration, target gaps, and shift benchmarking in a responsive control-room layout.
+A decision-oriented manufacturing performance dashboard for OEE and loss analysis. The experience combines operational KPIs, constraint signals, loss concentration, target gaps, and shift benchmarking in a responsive control-room layout. Displaying my experience as system manager
 
 ![OEE dashboard preview](docs/dashboard-preview.png)
 
